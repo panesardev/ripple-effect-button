@@ -1,2 +1,2 @@
-# ripple-effect-button
+# Ripple Effect Button
 Simple ripple button css
